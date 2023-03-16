@@ -11,5 +11,8 @@ _Clique para visualizar o projeto no Figma:_
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/suQGqDSFlDF1inWvgULVst/Landing?node-id=0%3A1&t=ejz4MxKeIwXKvK3Z-1)
 
+Para acessar on-line: [La Pelota](https://la-pelota.vercel.app/)
+
+
 
 
