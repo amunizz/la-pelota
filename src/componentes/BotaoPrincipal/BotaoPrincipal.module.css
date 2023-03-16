@@ -1,0 +1,27 @@
+.botao {
+    display: inline-block;
+    width: 11rem;
+    border-radius: 10px;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.125rem;
+    margin-right: 1.3rem;
+    color: var(--branco);
+    border: 1px solid var(--amarelo-lapelota);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.botao:hover {
+    font-style: italic;
+}
+
+.botao.filled {
+    background-color: var(--amarelo-lapelota);
+    border: none;
+    color: var(--azul-escuro);
+}
+
+.botao.filled:hover {
+    font-style: italic;
+}

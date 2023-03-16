@@ -1,0 +1,25 @@
+.footer {
+    background-image: url('assets/fundo_footer.png');
+    background-size: cover;
+    color: var(--amarelo-lapelota);
+    width: 43.3rem;
+    height: 13.6rem;
+    display: flex;
+    justify-content: flex-start;
+    padding: 3rem;
+    margin-top: -13.6rem;
+    gap: 1rem;
+    
+}
+
+.iconesContainer {
+    margin-top: 3rem;
+    margin-left: 17.2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.icone {
+   height: 2rem;
+   
+}

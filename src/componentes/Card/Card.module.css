@@ -1,0 +1,22 @@
+.cardBox {
+    border: 1.2px solid #fff;
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+}
+
+.cardBox.largeBox {
+    width: 16.5rem;
+    height: 16.5rem;
+}
+
+.cardBoxImage {
+    width: 10.4rem;
+    margin: auto 0;
+}
+
+.cardBoxImage.largeCard {
+    width: 15.8rem;
+    margin: auto 0;
+}
